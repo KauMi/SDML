@@ -1,2 +1,2 @@
 # SDML
-This is a test 
+test project
